@@ -1,5 +1,4 @@
-# LInux-assignment
-
+Linux
                                                       Linux assignment
 
 Task 1: Creating and Renaming Files/Directories
